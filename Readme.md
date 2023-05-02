@@ -1,6 +1,6 @@
-                                 INSTALL TUTORIAL  run command terminal UBUNTU 20.04
+                                              UTORIAL  run command terminal UBUNTU 20.04
 
-                                                                          Broadway 2.0
+                                                            Broadway 2.0
 
 Readme_2023 < full readme text 2023
 
