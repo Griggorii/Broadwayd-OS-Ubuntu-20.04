@@ -1,6 +1,9 @@
                                               UTORIAL  run command terminal UBUNTU 20.04
 
                                                             Broadway 2.0
+                                                            
+ 
+https://youtu.be/-ebUHXNLsQ4 
 
 Readme_2023 < full readme text 2023
 
