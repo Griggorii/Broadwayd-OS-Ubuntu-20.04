@@ -7,7 +7,7 @@ chromium-browser http://localhost:8080/ & ./broadwayd & GDK_BACKEND=broadway BRO
 
 GDK_BACKEND=broadway BROADWAY_DISPLAY=:0 gnome-system-monitor
 
-GDK_BACKEND=broadway BROADWAY_DISPLAY=:0 /usr/lib/x86_64-linux-gnu/webkit2gtk-4.0/MiniBrowser
+GDK_BACKEND=broadway BROADWAY_DISPLAY=:0 /usr/lib/x86_64-linux-gnu/webkit2gtk-4.0/MiniBrowser https://www.youtube.com/@griggorii
 
 GDK_BACKEND=broadway BROADWAY_DISPLAY=:0 nautilus
 
