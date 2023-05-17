@@ -11,7 +11,7 @@ GDK_BACKEND=broadway BROADWAY_DISPLAY=:0 /usr/lib/x86_64-linux-gnu/webkit2gtk-4.
 
 GDK_BACKEND=broadway BROADWAY_DISPLAY=:0 libreoffice --calc
 
-GDK_BACKEND=broadway BROADWAY_DISPLAY=:0 libreoffice-math
+GDK_BACKEND=broadway BROADWAY_DISPLAY=:0 libreoffice --math
 
 GDK_BACKEND=broadway BROADWAY_DISPLAY=:0 nautilus
 

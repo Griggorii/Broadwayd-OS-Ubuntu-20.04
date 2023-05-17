@@ -9,7 +9,7 @@ GDK_BACKEND=broadway BROADWAY_DISPLAY=:0 gnome-system-monitor
 
 GDK_BACKEND=broadway BROADWAY_DISPLAY=:0 libreoffice --calc
 
-GDK_BACKEND=broadway BROADWAY_DISPLAY=:0 libreoffice-math
+GDK_BACKEND=broadway BROADWAY_DISPLAY=:0 libreoffice --math
 
 GDK_BACKEND=broadway BROADWAY_DISPLAY=:0 nautilus
 
